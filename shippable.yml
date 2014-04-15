@@ -9,4 +9,4 @@ notifications:
   email:
       recipients:
          - vidya@shippable.com
-		           -vidyac.raghav@gmail.com
+         - vidyac.raghav@gmail.com
